@@ -4,7 +4,7 @@ Projeto desenvolvido no bootcamp da NTT DATA - Engenharia de Dados com Python pe
 
 ## Desafio
 - Iniciar a modelagem do sistema bancário em POO (Programação Orientada a Objetos).
-- Adicionar classes e as operações bancárias: depósito, saque, extrato, cadastrar cliente, criar conta e listar contas..
+- Adicionar classes e as operações bancárias: depósito, saque, extrato, cadastrar cliente, criar conta e listar contas.
 - Armazenar os dados de clientes e contas bancárias em objetos.
 - O código deve seguir o modelo de classes UML a seguir:<br><br>
 
